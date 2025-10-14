@@ -1,1 +1,1 @@
-# MY-README
+I’m a Design Engineer with a knack for converting designs into pixel-perfect UIs. Though I’m a non-CS grad, I specialize in creating responsive, user-friendly interfaces that blend design and development seamlessly.
