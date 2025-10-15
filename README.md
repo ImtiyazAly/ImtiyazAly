@@ -1,1 +1,1 @@
-24' Non-CS Grad
+24, Non-CS Grad
